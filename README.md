@@ -59,6 +59,12 @@ http://powermin.nic.in/pdf/final-uday-newsletter/5-oct</td><br>
 5.Regularly remove harmful links to your page.</td><br>
 </tr>
 <tr>
+<th>WWW redirection Test</th>
+<td>A redirect is in place to redirect traffic from your non-preferred domain.</td>
+<td>1. Hosting (Parking) All the Domains on Your Web Host.<br>
+2. Redirecting All the Alternative Names to Your Main (Primary) Domain Name from Your Domain Registrar.</td><br>
+</tr>
+<tr>
 <th>HTML Page Size Test</th>
 <td>Average web page size should be of 33 Kb. </td><br>
 </tr>
