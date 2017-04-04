@@ -37,7 +37,7 @@ http://powermin.nic.in/pdf/final-uday-newsletter/5-oct</td><br>
 <tr>
 <th>Image Alt Test</th>
 <td>Required 'alt' attribute.</td>
-<td><img id="user-content-t007-10048" alt="images" src="/bini823/mf/raw/gh-pages/bini823/npi/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td><br>
+<td><img id="user-content-t007-10048" alt="images" src="/bini823/mp/raw/gh-pages/bini823/mp/raw/gh-pages/images/line_image-1-.png" width="108" height="65" style="max-width:100%;"></td><br>
 </tr>
 <tr>
 <th>Domain Authority</th>
