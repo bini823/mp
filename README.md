@@ -87,7 +87,7 @@ table#t01 th {
 <th>Underscores in Links Test</th>
 <td>We have not found underscores in your in-page URLs.</td>
 <td>A url must contain only lower alphabets, numbers, slashes(/), dash(-).<br><br>
-<b>Eg:-</b> http://powermin.nic.in//en/sites/default/files/webform/notices/UMPP_Projects<br>http://powermin.nic.in/pdf/Final_UDAY_Newsletter_5_oct</td>
+<b>Eg:-</b> http://powermin.nic.in//en/sites/default/files/webform/notices/UMPP-Projects<br>http://powermin.nic.in/pdf/Final-UDAY-Newsletter/5-oct</td>
 </tr>
 <tr>
 
