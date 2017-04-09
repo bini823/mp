@@ -136,8 +136,8 @@ Remove inline css and add it in external css file.</td>
 </tr>
 <tr>
 <th>Favicon Test</th>
-<td><b>Your website appears to have a favicon.</b></td>
-<td>If favicon doesn't appears then following method should be used:-<br><br>
+<td>Your website appears to have a favicon.</td>
+<td><b>If favicon doesn't appears then following method should be used:-</b><br><br>
 You need to start with a square image. When you have the image you want, name it favicon.ico. 
 Now you need to use an FTP client and upload it to your document root directory. This is important, so if you don't know what your document root directory is, 
 ask your hosting provider. Now just add a little html code to your web pages so the the favicon will show up. This can be before or after the title tags. 
