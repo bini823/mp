@@ -57,6 +57,7 @@ table#t01 th {
   <tr>
   <th>Keywords Test</th>
   <td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
+  <td>Not Good</td>
   <td>Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
   </tr>
   <tr>
